@@ -1,4 +1,4 @@
-module joonho3020/go/gotraceui
+module github.com/joonho3020/gotraceui
 
 go 1.21
 
