@@ -1,4 +1,4 @@
-module github.com/github.com/joonho3020traceui
+module github.com/github.com/joonho3020/gotraceui
 
 go 1.21
 
