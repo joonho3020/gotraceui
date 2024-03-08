@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"golang.org/x/exp/slices"
-	"joonho3020/go/gotraceui/container"
-	"joonho3020/go/gotraceui/trace"
+	"github.com/joonho3020/gotraceui/container"
+	"github.com/joonho3020/gotraceui/trace"
 )
 
 // This boolean guards all code involving displaying machine timelines. That feature is currently broken, because the

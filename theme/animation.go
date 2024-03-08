@@ -7,7 +7,7 @@ import (
 
 	"gioui.org/op"
 	"golang.org/x/exp/constraints"
-	"joonho3020/go/gotraceui/layout"
+	"github.com/joonho3020/gotraceui/layout"
 )
 
 type EasingFunction func(float64) float64

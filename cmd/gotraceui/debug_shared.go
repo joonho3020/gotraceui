@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"joonho3020/go/gotraceui/color"
-	"joonho3020/go/gotraceui/trace"
+	"github.com/joonho3020/gotraceui/color"
+	"github.com/joonho3020/gotraceui/trace"
 )
 
 var (

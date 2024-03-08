@@ -13,7 +13,7 @@ import (
 	"math"
 	"sync"
 
-	"joonho3020/go/gotraceui/widget"
+	"github.com/joonho3020/gotraceui/widget"
 
 	"gioui.org/layout"
 	"gioui.org/op/paint"

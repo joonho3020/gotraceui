@@ -9,11 +9,11 @@ import (
 	"sort"
 	"time"
 
-	myclip "joonho3020/go/gotraceui/clip"
-	"joonho3020/go/gotraceui/layout"
-	"joonho3020/go/gotraceui/theme"
-	"joonho3020/go/gotraceui/trace/ptrace"
-	"joonho3020/go/gotraceui/widget"
+	myclip "github.com/joonho3020/gotraceui/clip"
+	"github.com/joonho3020/gotraceui/layout"
+	"github.com/joonho3020/gotraceui/theme"
+	"github.com/joonho3020/gotraceui/trace/ptrace"
+	"github.com/joonho3020/gotraceui/widget"
 
 	"gioui.org/f32"
 	"gioui.org/io/key"

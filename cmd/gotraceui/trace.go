@@ -1,8 +1,8 @@
 package main
 
 import (
-	"joonho3020/go/gotraceui/trace"
-	"joonho3020/go/gotraceui/trace/ptrace"
+	"github.com/joonho3020/gotraceui/trace"
+	"github.com/joonho3020/gotraceui/trace/ptrace"
 )
 
 type reason uint8
