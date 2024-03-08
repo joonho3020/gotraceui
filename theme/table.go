@@ -6,12 +6,12 @@ import (
 	"image"
 	rtrace "runtime/trace"
 
-	"joonho3020/go/gotraceui/color"
-	"joonho3020/go/gotraceui/container"
-	"joonho3020/go/gotraceui/gesture"
-	"joonho3020/go/gotraceui/layout"
-	"joonho3020/go/gotraceui/mem"
-	"joonho3020/go/gotraceui/widget"
+	"github.com/joonho3020/gotraceui/color"
+	"github.com/joonho3020/gotraceui/container"
+	"github.com/joonho3020/gotraceui/gesture"
+	"github.com/joonho3020/gotraceui/layout"
+	"github.com/joonho3020/gotraceui/mem"
+	"github.com/joonho3020/gotraceui/widget"
 
 	"gioui.org/font"
 	"gioui.org/io/key"

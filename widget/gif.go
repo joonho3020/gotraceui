@@ -10,7 +10,7 @@ import (
 	"gioui.org/op"
 	"gioui.org/op/paint"
 	"gioui.org/widget"
-	"joonho3020/go/gotraceui/layout"
+	"github.com/joonho3020/gotraceui/layout"
 )
 
 type GIF struct {

@@ -12,11 +12,11 @@ import (
 	"time"
 	"unsafe"
 
-	"joonho3020/go/gotraceui/color"
-	myfont "joonho3020/go/gotraceui/font"
-	"joonho3020/go/gotraceui/layout"
-	"joonho3020/go/gotraceui/tinylfu"
-	"joonho3020/go/gotraceui/widget"
+	"github.com/joonho3020/gotraceui/color"
+	myfont "github.com/joonho3020/gotraceui/font"
+	"github.com/joonho3020/gotraceui/layout"
+	"github.com/joonho3020/gotraceui/tinylfu"
+	"github.com/joonho3020/gotraceui/widget"
 
 	"gioui.org/app"
 	"gioui.org/f32"

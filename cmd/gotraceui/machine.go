@@ -6,10 +6,10 @@ import (
 	rtrace "runtime/trace"
 	"time"
 
-	"joonho3020/go/gotraceui/layout"
-	"joonho3020/go/gotraceui/theme"
-	"joonho3020/go/gotraceui/trace"
-	"joonho3020/go/gotraceui/trace/ptrace"
+	"github.com/joonho3020/gotraceui/layout"
+	"github.com/joonho3020/gotraceui/theme"
+	"github.com/joonho3020/gotraceui/trace"
+	"github.com/joonho3020/gotraceui/trace/ptrace"
 )
 
 func machineTrack0SpanLabel(spans Items[ptrace.Span], tr *Trace, out []string) []string {

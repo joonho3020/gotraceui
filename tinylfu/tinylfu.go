@@ -8,7 +8,7 @@ import (
 	"hash/maphash"
 	"unsafe"
 
-	"joonho3020/go/gotraceui/tinylfu/internal/list"
+	"github.com/joonho3020/gotraceui/tinylfu/internal/list"
 )
 
 type T[K comparable, V any] struct {

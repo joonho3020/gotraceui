@@ -7,12 +7,12 @@ import (
 	"strings"
 	"time"
 
-	"joonho3020/go/gotraceui/clip"
-	"joonho3020/go/gotraceui/color"
-	"joonho3020/go/gotraceui/layout"
-	"joonho3020/go/gotraceui/theme"
-	"joonho3020/go/gotraceui/trace/ptrace"
-	"joonho3020/go/gotraceui/widget"
+	"github.com/joonho3020/gotraceui/clip"
+	"github.com/joonho3020/gotraceui/color"
+	"github.com/joonho3020/gotraceui/layout"
+	"github.com/joonho3020/gotraceui/theme"
+	"github.com/joonho3020/gotraceui/trace/ptrace"
+	"github.com/joonho3020/gotraceui/widget"
 )
 
 type FlameGraphComponent struct {
