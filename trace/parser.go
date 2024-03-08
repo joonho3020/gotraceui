@@ -231,12 +231,13 @@ func (p *Parser) parse() (Trace, error) {
 
 	if len(events) > 0 {
 		// Translate cpu ticks to real time.
-		minTs := events[0].Ts
+		// minTs := events[0].Ts
 		// Use floating point to avoid integer overflows.
 		freq := 1e9 / float64(p.ticksPerSec)
 		for i := range events {
 			ev := &events[i]
-			ev.Ts = Timestamp(float64(ev.Ts-minTs) * freq)
+			// ev.Ts = Timestamp(float64(ev.Ts-minTs) * freq)
+			ev.Ts = Timestamp(float64(ev.Ts) * freq)
 			// Move syscalls to separate fake Ps.
 			if ev.Type == EvGoSysExit {
 				ev.P = SyscallP
