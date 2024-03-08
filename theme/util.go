@@ -5,8 +5,8 @@ import (
 	"image"
 	rtrace "runtime/trace"
 
-	"honnef.co/go/gotraceui/color"
-	"honnef.co/go/gotraceui/layout"
+	"joonho3020/go/gotraceui/color"
+	"joonho3020/go/gotraceui/layout"
 
 	"gioui.org/op"
 	"gioui.org/op/clip"

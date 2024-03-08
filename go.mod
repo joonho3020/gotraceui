@@ -1,4 +1,4 @@
-module honnef.co/go/gotraceui
+module joonho3020/go/gotraceui
 
 go 1.21
 

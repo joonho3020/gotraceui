@@ -1,6 +1,6 @@
 package ptrace
 
-import "honnef.co/go/gotraceui/trace"
+import "joonho3020/go/gotraceui/trace"
 
 type SpanTags uint8
 

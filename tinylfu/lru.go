@@ -1,6 +1,6 @@
 package tinylfu
 
-import "honnef.co/go/gotraceui/tinylfu/internal/list"
+import "joonho3020/go/gotraceui/tinylfu/internal/list"
 
 // Cache is an LRU cache.  It is not safe for concurrent access.
 type lruCache[K comparable, V any] struct {

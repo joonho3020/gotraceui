@@ -10,7 +10,7 @@ import (
 	"gioui.org/layout"
 	"gioui.org/text"
 	"gioui.org/unit"
-	"honnef.co/go/gotraceui/widget"
+	"joonho3020/go/gotraceui/widget"
 
 	"golang.org/x/image/math/fixed"
 )

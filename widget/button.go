@@ -5,8 +5,8 @@ import (
 	"image"
 	rtrace "runtime/trace"
 
-	"honnef.co/go/gotraceui/gesture"
-	"honnef.co/go/gotraceui/layout"
+	"joonho3020/go/gotraceui/gesture"
+	"joonho3020/go/gotraceui/layout"
 
 	"gioui.org/io/key"
 	"gioui.org/io/pointer"

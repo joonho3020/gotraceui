@@ -3,7 +3,7 @@ package widget
 import (
 	"image/color"
 
-	"honnef.co/go/gotraceui/layout"
+	"joonho3020/go/gotraceui/layout"
 
 	"gioui.org/op"
 	"gioui.org/op/paint"

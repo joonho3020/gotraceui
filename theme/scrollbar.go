@@ -6,9 +6,9 @@ import (
 	"math"
 	rtrace "runtime/trace"
 
-	"honnef.co/go/gotraceui/color"
-	"honnef.co/go/gotraceui/layout"
-	"honnef.co/go/gotraceui/widget"
+	"joonho3020/go/gotraceui/color"
+	"joonho3020/go/gotraceui/layout"
+	"joonho3020/go/gotraceui/widget"
 
 	"gioui.org/io/pointer"
 	"gioui.org/op"

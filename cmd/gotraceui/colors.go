@@ -1,8 +1,8 @@
 package main
 
 import (
-	"honnef.co/go/gotraceui/color"
-	"honnef.co/go/gotraceui/trace/ptrace"
+	"joonho3020/go/gotraceui/color"
+	"joonho3020/go/gotraceui/trace/ptrace"
 )
 
 const (

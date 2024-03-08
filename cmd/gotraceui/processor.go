@@ -6,10 +6,10 @@ import (
 	rtrace "runtime/trace"
 	"time"
 
-	"honnef.co/go/gotraceui/layout"
-	"honnef.co/go/gotraceui/theme"
-	"honnef.co/go/gotraceui/trace"
-	"honnef.co/go/gotraceui/trace/ptrace"
+	"joonho3020/go/gotraceui/layout"
+	"joonho3020/go/gotraceui/theme"
+	"joonho3020/go/gotraceui/trace"
+	"joonho3020/go/gotraceui/trace/ptrace"
 )
 
 type ProcessorTooltip struct {

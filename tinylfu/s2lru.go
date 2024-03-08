@@ -1,6 +1,6 @@
 package tinylfu
 
-import "honnef.co/go/gotraceui/tinylfu/internal/list"
+import "joonho3020/go/gotraceui/tinylfu/internal/list"
 
 type slruItem[K comparable, V any] struct {
 	listid int

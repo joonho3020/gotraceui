@@ -7,12 +7,12 @@ import (
 	rtrace "runtime/trace"
 	"sort"
 
-	"honnef.co/go/gotraceui/layout"
-	"honnef.co/go/gotraceui/mem"
-	"honnef.co/go/gotraceui/theme"
-	"honnef.co/go/gotraceui/trace"
-	"honnef.co/go/gotraceui/trace/ptrace"
-	"honnef.co/go/gotraceui/widget"
+	"joonho3020/go/gotraceui/layout"
+	"joonho3020/go/gotraceui/mem"
+	"joonho3020/go/gotraceui/theme"
+	"joonho3020/go/gotraceui/trace"
+	"joonho3020/go/gotraceui/trace/ptrace"
+	"joonho3020/go/gotraceui/widget"
 
 	"gioui.org/op/clip"
 	"gioui.org/text"

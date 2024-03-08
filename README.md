@@ -9,7 +9,7 @@ browser at all), and its UI is tuned specifically to the unique characteristics 
 ## Installation
 
 Users of Nix can use the flake. There are no packages for other distributions or OSs yet and you will have to build
-`honnef.co/go/gotraceui/cmd/gotraceui` yourself. The manual contains information on how to.
+`joonho3020/go/gotraceui/cmd/gotraceui` yourself. The manual contains information on how to.
 
 ## Manual
 
